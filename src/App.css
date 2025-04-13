@@ -45,8 +45,8 @@ body {
 }
 
 #operation{
-  width: 50px; 
-  height: 50px
+  width: 75px; 
+  height: 75px
 }
 
 .enter{
@@ -63,7 +63,71 @@ body {
 }
 
 #num{
-  width: 50px; 
-  height: 50px
+  width: 75px; 
+  height: 75px
 }
 
+
+.AC{
+  position: relative;
+  top: 200px;
+  width: 75px;
+  height: 75px;
+  right: 575px;
+}
+
+.enter{
+  width: 75px;
+  height: 75px;
+  position: relative;
+  top: 496px;
+  left: 251px;
+}
+
+.divide{
+  position: relative;
+  top: 274px;
+  left: 400px;
+}
+
+.multiply{
+  position: relative;
+  top: 348px;
+  left: 475px;
+}
+
+.subtract{
+  position: relative;
+  top: 422px;
+  left: 550px;
+}
+
+.add{
+  position: relative;
+  top: 496px;
+  left: 625px;
+}
+
+.decimal{
+  position: relative;
+  top: 496px;
+  right: 648px
+}
+
+.zero{
+  position: relative;
+  top: 496px;
+  left: 28px;
+}
+
+.one{
+  position: relative;
+  top: 422px;
+  left: -47px;
+}
+
+.two{
+  position: relative;
+  top: 422px;
+  left: -48px;
+}

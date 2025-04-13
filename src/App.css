@@ -131,3 +131,56 @@ body {
   top: 422px;
   left: -48px;
 }
+
+.three{
+  position: relative;
+  top: 422px;
+  left: -49px;
+}
+
+.four{
+  position: relative;
+  top: 348px;
+  left: -272px;
+}
+
+.five{
+  position: relative;
+  top: 348px;
+  left: -273px;
+}
+
+.six{
+  position: relative;
+  top: 348px;
+  left: -274px;
+}
+
+.seven{
+  position: relative;
+  top: 274px;
+  left: -497px;
+}
+
+.eight{
+  position: relative;
+  top: 274px;
+  left: -498px;
+}
+
+.nine{
+  position: relative;
+  top: 274px;
+  left: -499px;
+}
+
+.output{
+  height: 75px;
+  width: 222px;
+  position: relative;
+  top: 125px;
+  right: 49px;
+  font-size: 18pt;
+  font-weight: bold;
+  text-align: left;
+}

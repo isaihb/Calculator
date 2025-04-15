@@ -46,12 +46,16 @@ body {
 
 #operation{
   width: 75px; 
-  height: 75px
+  height: 75px;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .enter{
   width: 80px;
-  height: 50px
+  height: 50px;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif
 }
 
 .output{
@@ -60,11 +64,15 @@ body {
   height: 30px;
   background-color: gray;
   margin-left: 550px;
+  font-family: "Times New Roman", Times, serif
+
 }
 
 #num{
   width: 75px; 
-  height: 75px
+  height: 75px;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif
 }
 
 
@@ -74,6 +82,8 @@ body {
   width: 75px;
   height: 75px;
   right: 575px;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif
 }
 
 .enter{

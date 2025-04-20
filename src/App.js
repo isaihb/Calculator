@@ -1,7 +1,15 @@
 
 import './App.css';
+import { useState } from 'react';
+
+const [index, setIndex] = useState(0);
 
 function App() {
+
+
+
+
+
   return (
     <div className="App">
       <header className="App-header">
